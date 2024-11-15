@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "18GmYqqSpSnU9O7h17JkFy634gdJ9Du4THsfRcfATqU=",
+  "Source": "BudgetTrackerBackend",
+  "BasePath": "_content/BudgetTrackerBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
