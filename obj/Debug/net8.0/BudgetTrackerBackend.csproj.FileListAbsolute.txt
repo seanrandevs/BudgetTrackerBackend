@@ -157,3 +157,4 @@ C:\Users\Sean\Desktop\Web Dev\BudgetTrackerBackend\obj\Debug\net8.0\refint\Budge
 C:\Users\Sean\Desktop\Web Dev\BudgetTrackerBackend\obj\Debug\net8.0\BudgetTrackerBackend.pdb
 C:\Users\Sean\Desktop\Web Dev\BudgetTrackerBackend\obj\Debug\net8.0\BudgetTrackerBackend.genruntimeconfig.cache
 C:\Users\Sean\Desktop\Web Dev\BudgetTrackerBackend\obj\Debug\net8.0\ref\BudgetTrackerBackend.dll
+C:\Users\Sean\Desktop\Web Dev\BudgetTrackerBackend\obj\Debug\net8.0\BudgetTrackerBackend.sourcelink.json
